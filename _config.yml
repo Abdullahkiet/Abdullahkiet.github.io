@@ -43,7 +43,7 @@ links:
   - name: Projects on App Stores
     url: https://drive.google.com/file/d/1MBOZQxMtSWmIsGoDnqvDjnqRs4ON2dik/view
 
-skills:
+topics:
   - name: JavaScript
     web_url: https://github.com/topics/js
     image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/javascript/javascript.png
