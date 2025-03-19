@@ -8,15 +8,16 @@
       {{ content }}
     </div>
 
-    <!-- New Section: CV, Resume, and Projects Links -->
+   <!-- New Section: CV, Resume, and Projects Links -->
     <div class="my-6">
-      <h2>Links</h2>
-      <p>
-        <a href="{{ site.links[0].url }}" target="_blank" style="font-weight: bold; margin-right: 20px;">{{ site.links[0].name }}</a>
-        <a href="{{ site.links[1].url }}" target="_blank" style="font-weight: bold; margin-right: 20px;">{{ site.links[1].name }}</a>
-        <a href="{{ site.links[2].url }}" target="_blank" style="font-weight: bold;">{{ site.links[2].name }}</a>
-      </p>
+      <h2 class="mb-4">Links</h2>
+      <div>
+        <a href="{{ site.links[0].url }}" target="_blank" class="btn btn-primary mx-2">{{ site.links[0].name }}</a>
+        <a href="{{ site.links[1].url }}" target="_blank" class="btn btn-primary mx-2">{{ site.links[1].name }}</a>
+        <a href="{{ site.links[2].url }}" target="_blank" class="btn btn-primary mx-2">{{ site.links[2].name }}</a>
+      </div>
     </div>
+
     
     <div class="my-6">
       {% include projects.html %}
