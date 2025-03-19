@@ -84,10 +84,6 @@ topics:
     web_url: https://github.com/topics/nodejs
     image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png
 
-  - name: Firebase
-    web_url: https://github.com/topics/firebase
-    image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png
-
   - name: C#
     web_url: https://github.com/topics/csharp
     image_url: https://raw.githubusercontent.com/github/explore/31ea1181d4a76262931a39ca68e0203774a69b60/topics/csharp/csharp.png
