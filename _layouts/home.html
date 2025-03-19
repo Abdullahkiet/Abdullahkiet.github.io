@@ -12,6 +12,17 @@
       {% include projects.html %}
     </div>
 
+      <!-- New Section: CV, Resume, and Projects Links -->
+    <div class="my-6">
+      <h2>Links</h2>
+      <ul>
+        <li><a href="{{ site.links[0].url }}" target="_blank">{{ site.links[0].name }}</a></li>
+        <li><a href="{{ site.links[1].url }}" target="_blank">{{ site.links[1].name }}</a></li>
+        <li><a href="{{ site.links[2].url }}" target="_blank">{{ site.links[2].name }}</a></li>
+      </ul>
+    </div>
+    
+
     {% if site.topics %}
       <div class="my-6">
         {% include interests.html %}
