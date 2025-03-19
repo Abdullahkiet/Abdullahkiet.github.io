@@ -34,7 +34,16 @@ social_media:
   linkedin: abdullahkhi
   youtube: MuhammadAbdullahDev
 
-topics:
+# New Section: CV, Resume, and Projects
+links:
+  - name: Resume
+    url: https://drive.google.com/file/d/1xd9ztR0W3kNRpFanvaILcLXSxTV6SCze/view
+  - name: Detailed CV
+    url: https://drive.google.com/file/d/1W9VPg0nNdsZu87VJsTX1bax2uPiX-H93/view
+  - name: Projects on App Stores
+    url: https://drive.google.com/file/d/1MBOZQxMtSWmIsGoDnqvDjnqRs4ON2dik/view
+
+skills:
   - name: JavaScript
     web_url: https://github.com/topics/js
     image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/javascript/javascript.png
