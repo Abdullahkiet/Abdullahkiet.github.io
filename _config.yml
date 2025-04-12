@@ -36,12 +36,12 @@ social_media:
 
 # New Section: CV, Resume, and Projects
 links:
-  - name: Resume
-    url: https://drive.google.com/file/d/1xd9ztR0W3kNRpFanvaILcLXSxTV6SCze/view
   - name: Detailed CV
-    url: https://drive.google.com/file/d/1W9VPg0nNdsZu87VJsTX1bax2uPiX-H93/view
+    url: https://drive.google.com/file/d/1B95JeFLg7hFBXT_ABNcRbdNpTY0xQNyT/view
+  - name: Resume
+    url: https://drive.google.com/file/d/1AxvURWK91czWHj9pdKTLPPvowvugUvQZ/view
   - name: Projects on App Stores
-    url: https://drive.google.com/file/d/1MBOZQxMtSWmIsGoDnqvDjnqRs4ON2dik/view
+    url: https://drive.google.com/file/d/1BUw2z04YmCVoendUvmk4LNv43iMPRUoX/view
 
 topics:
   - name: JavaScript
